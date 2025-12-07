@@ -1,0 +1,1 @@
+# VDI-env-by-Azure-Engeneer
