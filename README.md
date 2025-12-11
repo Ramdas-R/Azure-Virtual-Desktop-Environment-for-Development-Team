@@ -30,4 +30,5 @@ Secure and compliant environment for developers.
 High availability and disaster recovery readiness.
 Scalable design for future growth.
 
-<img width="975" height="650" alt="image" src="https://github.com/user-attachments/assets/beff8139-b1e0-4076-9041-45d21902a9a1" />
+<img width="975" height="650" alt="image" src="https://github.com/user-attachments/assets/faec82e8-931d-43c2-9098-6f1bdbe0e3c6" />
+
